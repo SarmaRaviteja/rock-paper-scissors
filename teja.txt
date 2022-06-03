@@ -1,2 +1,2 @@
 echo 'ravi teja' > ravi.txt
-echo 'boost is the secret of my energy'
+echo 'boost is the secret of my energy' >> ravi.txt
